@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://misbahk.github.io/csb-2ivh6c/static/css/main.cf3424cc.chunk.css",
+    "main.js": "https://misbahk.github.io/csb-2ivh6c/static/js/main.0daeb334.chunk.js",
+    "main.js.map": "https://misbahk.github.io/csb-2ivh6c/static/js/main.0daeb334.chunk.js.map",
+    "runtime-main.js": "https://misbahk.github.io/csb-2ivh6c/static/js/runtime-main.a3962f19.js",
+    "runtime-main.js.map": "https://misbahk.github.io/csb-2ivh6c/static/js/runtime-main.a3962f19.js.map",
+    "static/css/2.8441bd9b.chunk.css": "https://misbahk.github.io/csb-2ivh6c/static/css/2.8441bd9b.chunk.css",
+    "static/js/2.e47f5ea9.chunk.js": "https://misbahk.github.io/csb-2ivh6c/static/js/2.e47f5ea9.chunk.js",
+    "static/js/2.e47f5ea9.chunk.js.map": "https://misbahk.github.io/csb-2ivh6c/static/js/2.e47f5ea9.chunk.js.map",
+    "index.html": "https://misbahk.github.io/csb-2ivh6c/index.html",
+    "static/css/2.8441bd9b.chunk.css.map": "https://misbahk.github.io/csb-2ivh6c/static/css/2.8441bd9b.chunk.css.map",
+    "static/css/main.cf3424cc.chunk.css.map": "https://misbahk.github.io/csb-2ivh6c/static/css/main.cf3424cc.chunk.css.map",
+    "static/js/2.e47f5ea9.chunk.js.LICENSE.txt": "https://misbahk.github.io/csb-2ivh6c/static/js/2.e47f5ea9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3962f19.js",
+    "static/css/2.8441bd9b.chunk.css",
+    "static/js/2.e47f5ea9.chunk.js",
+    "static/css/main.cf3424cc.chunk.css",
+    "static/js/main.0daeb334.chunk.js"
+  ]
+}
